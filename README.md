@@ -42,3 +42,5 @@ The script files have been IIFE-d (Immediately invoked function expression (IIFE
 10) $ git commit -m "second commit"
 
 11) $git push origin master
+
+https://github.com/blog/2019-how-to-undo-almost-anything-with-git
