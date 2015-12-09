@@ -9,8 +9,6 @@
 
 Welcome to your Node.js project on Cloud9 IDE!
 
-This is based on PS Angular Fundamentals by Joe Eames and Jim Cooper.
-
 The script files have been IIFE-d (Immediately invoked function expression (IIFE))
 
 ## Running the server
